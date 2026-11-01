@@ -11,3 +11,7 @@ Goal: build a practical engineering portfolio.
 ## Projects
 
 I plan to build a C greeting program and a small portfolio website to practise programming and version control.
+
+## Collaboration Log
+
+I completed the greet() function individually. No partner participated and no Live Share collaboration session was completed. Partner name and GitHub username: not applicable. Paired editing, shared terminal, and driver/navigator role swapping remain pending. Git blame links each line to its latest changing commit; GitLens presents this information in the editor. GitLens UI inspection is pending.

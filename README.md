@@ -5,3 +5,5 @@ I am Tharun Ramesh, a third-semester Computer Science Engineering student. This 
 Learning C, C++ and Python.
 
 Interested in software development.
+
+Goal: build a practical engineering portfolio.
